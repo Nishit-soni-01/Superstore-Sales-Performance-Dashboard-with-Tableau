@@ -1,5 +1,5 @@
 # Superstore-Sales-Analysis-Tableau-Dashboard
-
+### Dashboard Link: https://public.tableau.com/views/Superstore-Sales-Analysis-Tableau-Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Problem Statement
 
 This project aims to create a holistic, multi-page Tableau dashboard for a deep-dive analysis of the Superstore sales data. The goal is to provide stakeholders with a comprehensive and interactive tool to monitor performance, identify trends, and make data-driven decisions. The dashboard is segmented into five key areas: a general **Overview**, and detailed dashboards for **Product**, **Customer**, **Shipping**, and **Returns** analysis.
